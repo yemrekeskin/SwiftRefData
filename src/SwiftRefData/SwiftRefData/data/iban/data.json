@@ -1,5 +1,4 @@
-{
-  "values": [
+[
     {
       "country": "Albania",
       "length": "28",
@@ -444,5 +443,4 @@
       "code": "ZZ",
       "format": "ZZ2!n4!a9!n18!c"
     }
-  ]
-}
+]

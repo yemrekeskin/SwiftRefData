@@ -1,0 +1,20 @@
+{
+    "country": "Saint Pierre and Miquelon",
+    "country_code": "PM",
+    "list": [
+        {
+            "id": 1,
+            "bank": "CAISSE D'EPARGNE CEPAC (FORMERLY BANQUE DE SAINT-PIERRE ET MIQUELON)",
+            "city": "SAINT PIERRE ET MIQUELON",
+            "branch": null,
+            "swift_code": "BDILPMPM"
+        },
+        {
+            "id": 2,
+            "bank": "CISPM",
+            "city": "SAINT PIERRE ET MIQUELON",
+            "branch": null,
+            "swift_code": "CIPMPMP1"
+        }
+    ]
+}

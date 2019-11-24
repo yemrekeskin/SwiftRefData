@@ -1,0 +1,279 @@
+{
+    "country": "Laos",
+    "country_code": "LA",
+    "list": [
+        {
+            "id": 1,
+            "bank": "ACLEDA BANK (LAO) LTD",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "ACLBLALA"
+        },
+        {
+            "id": 2,
+            "bank": "AGRICULTURAL PROMOTION BANK",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "AGPBLALA"
+        },
+        {
+            "id": 3,
+            "bank": "ANZ BANK (LAO) LIMITED",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "ANZBLALA"
+        },
+        {
+            "id": 4,
+            "bank": "BANGKOK BANK PLC, VIENTIANE BRANCH",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "BKKBLALA"
+        },
+        {
+            "id": 5,
+            "bank": "BANK OF AYUDHYA PCL VIENTIANE BRANCH",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "AYUDLALA"
+        },
+        {
+            "id": 6,
+            "bank": "BANK OF CHINA LIMITED VIENTIANE BRANCH",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "BKCHLALA"
+        },
+        {
+            "id": 7,
+            "bank": "BANK OF THE LAO P.D.R.",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "LPDRLALA"
+        },
+        {
+            "id": 8,
+            "bank": "BANQUE FRANCO-LAO LTD",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "BFLLLALA"
+        },
+        {
+            "id": 9,
+            "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+            "city": "KHAMMOUANE",
+            "branch": "(KHAMMOUANE BRANCH)",
+            "swift_code": "COEBLALAKMN"
+        },
+        {
+            "id": 10,
+            "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+            "city": "LUANGNAMTHA",
+            "branch": "(LUANGNAMTHA BRANCH)",
+            "swift_code": "COEBLALALNT"
+        },
+        {
+            "id": 11,
+            "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+            "city": "LUANGPRABANG",
+            "branch": "(LUANGPRABANG BRANCH)",
+            "swift_code": "COEBLALALBP"
+        },
+        {
+            "id": 12,
+            "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+            "city": "OUDOMXAY",
+            "branch": "(OUDOMXAY BRANCH)",
+            "swift_code": "COEBLALAODX"
+        },
+        {
+            "id": 13,
+            "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+            "city": "PAKSE",
+            "branch": "(CHAMPASACK BRANCH)",
+            "swift_code": "COEBLALACPS"
+        },
+        {
+            "id": 14,
+            "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+            "city": "SAVANNAKHET",
+            "branch": "(SAVANNAKHET BRANCH)",
+            "swift_code": "COEBLALASVN"
+        },
+        {
+            "id": 15,
+            "bank": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "COEBLALA"
+        },
+        {
+            "id": 16,
+            "bank": "CANADIA BANK LAO CO LTD.",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "CADILALA"
+        },
+        {
+            "id": 17,
+            "bank": "FIRST COMMERCIAL BANK LTD, VIENTIANE BRANCH",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "FCBKLALA"
+        },
+        {
+            "id": 18,
+            "bank": "INDOCHINA BANK LTD",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "IDCBLALA"
+        },
+        {
+            "id": 19,
+            "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED VIENTIANE BRANCH",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "ICBKLALA"
+        },
+        {
+            "id": 20,
+            "bank": "INTERNATIONAL COMMERCIAL BANK (LAO) LTD",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "LICBLALA"
+        },
+        {
+            "id": 21,
+            "bank": "JOINT DEVELOPMENT BANK",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "JDBKLALA"
+        },
+        {
+            "id": 22,
+            "bank": "KASIKORNTHAI BANK LIMITED",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "KASILALA"
+        },
+        {
+            "id": 23,
+            "bank": "LAO CHINA BANK CO., LTD.",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "LCNBLALA"
+        },
+        {
+            "id": 24,
+            "bank": "LAO CONSTRUCTION BANK",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "LCBVLALA"
+        },
+        {
+            "id": 25,
+            "bank": "LAO CONSTRUCTION BANK LIMITED",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "LCONLAL1"
+        },
+        {
+            "id": 26,
+            "bank": "LAO DEVELOPMENT BANK",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "LDBBLALA"
+        },
+        {
+            "id": 27,
+            "bank": "LAO SAMSUNG ELECTRONICS SOLE CO., LTD.",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "SECTLA21"
+        },
+        {
+            "id": 28,
+            "bank": "LAO-VIET BANK",
+            "city": "CHAMPASAK",
+            "branch": "(CHAMPASAK BRANCH)",
+            "swift_code": "LAOVLALACPS"
+        },
+        {
+            "id": 29,
+            "bank": "LAO-VIET BANK",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "LAOVLALA"
+        },
+        {
+            "id": 30,
+            "bank": "MAGNATE PREMIER PB LIMITED",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "MGPRLAL1"
+        },
+        {
+            "id": 31,
+            "bank": "MARUHAN JAPAN BANK LAO CO., LTD",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "MJBLLALA"
+        },
+        {
+            "id": 32,
+            "bank": "MAYBANK LAO",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "MBBELALA"
+        },
+        {
+            "id": 33,
+            "bank": "PHONGSAVANH BANK LTD",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "PSVBLALA"
+        },
+        {
+            "id": 34,
+            "bank": "PUBLIC BANK, VIENTIANE BRANCH, LAO P.D.R.",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "PBBELALA"
+        },
+        {
+            "id": 35,
+            "bank": "RHB BANK LAO LIMITED",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "RHBBLALA"
+        },
+        {
+            "id": 36,
+            "bank": "SAIGON HANOI COMMERCIAL JOINT STOCK BANK LAOS BRANCH",
+            "city": "CHAMPASAK",
+            "branch": null,
+            "swift_code": "SHBALALA"
+        },
+        {
+            "id": 37,
+            "bank": "SIAM COMMERCIAL BANK PCL., THE",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "SICOLALA"
+        },
+        {
+            "id": 38,
+            "bank": "ST BANK CO. LTD",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "STBDLALA"
+        },
+        {
+            "id": 39,
+            "bank": "VIETINBANK LAO LIMITED",
+            "city": "VIENTIANE",
+            "branch": null,
+            "swift_code": "ICBVLALA"
+        }
+    ]
+}

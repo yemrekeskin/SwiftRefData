@@ -1,0 +1,223 @@
+{
+    "country": "Malawi",
+    "country_code": "MW",
+    "list": [
+        {
+            "id": 1,
+            "bank": "BRITISH AMERICAN TOBACCO (MALAWI) LTD",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "BATSMWM1"
+        },
+        {
+            "id": 2,
+            "bank": "CDH INVESTMENT BANK (CDHIB)",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "CDHIMWMW"
+        },
+        {
+            "id": 3,
+            "bank": "CONTINENTAL DISCOUNT HOUSE LIMITED",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "CODHMWM1"
+        },
+        {
+            "id": 4,
+            "bank": "ECOBANK MALAWI LIMITED",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "ECOCMWMW"
+        },
+        {
+            "id": 5,
+            "bank": "FDH BANK LIMITED",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "FDHFMWMW"
+        },
+        {
+            "id": 6,
+            "bank": "FINCOM BANK OF MALAWI LIMITED (FINCOM)",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "FIMWMWM1"
+        },
+        {
+            "id": 7,
+            "bank": "FIRST DISCOUNT HOUSE LIMITED",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "FDHDMWMW"
+        },
+        {
+            "id": 8,
+            "bank": "FIRST MERCHANT BANK LTD., MALAWI",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "FMERMWMW"
+        },
+        {
+            "id": 9,
+            "bank": "MALAWI STOCK EXCHANGE",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "XMSWMWM1"
+        },
+        {
+            "id": 10,
+            "bank": "NATIONAL BANK OF MALAWI",
+            "city": "BLANTYRE",
+            "branch": "(FINANCIAL MANAGEMENT SERVICES)",
+            "swift_code": "NBMAMWMW044"
+        },
+        {
+            "id": 11,
+            "bank": "NATIONAL BANK OF MALAWI",
+            "city": "BLANTYRE",
+            "branch": "(HENDERSON STREET BRANCH)",
+            "swift_code": "NBMAMWMW001"
+        },
+        {
+            "id": 12,
+            "bank": "NATIONAL BANK OF MALAWI",
+            "city": "BLANTYRE",
+            "branch": "(VICTORIA AVENUE BRANCH)",
+            "swift_code": "NBMAMWMW002"
+        },
+        {
+            "id": 13,
+            "bank": "NATIONAL BANK OF MALAWI",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "NBMAMWMW"
+        },
+        {
+            "id": 14,
+            "bank": "NATIONAL BANK OF MALAWI",
+            "city": "CHICHIRI",
+            "branch": "(CHICHIRI BRANCH)",
+            "swift_code": "NBMAMWMW003"
+        },
+        {
+            "id": 15,
+            "bank": "NATIONAL BANK OF MALAWI",
+            "city": "LILONGWE",
+            "branch": "(CAPITAL CITY BRANCH)",
+            "swift_code": "NBMAMWMW007"
+        },
+        {
+            "id": 16,
+            "bank": "NATIONAL BANK OF MALAWI",
+            "city": "LILONGWE",
+            "branch": "(LILONGWE BRANCH)",
+            "swift_code": "NBMAMWMW008"
+        },
+        {
+            "id": 17,
+            "bank": "NATIONAL BANK OF MALAWI",
+            "city": "LIMBE",
+            "branch": "(CHURCHILL ROAD BRANCH)",
+            "swift_code": "NBMAMWMW005"
+        },
+        {
+            "id": 18,
+            "bank": "NATIONAL BANK OF MALAWI",
+            "city": "LIMBE",
+            "branch": "(CUSTOMS ROAD BRANCH)",
+            "swift_code": "NBMAMWMW004"
+        },
+        {
+            "id": 19,
+            "bank": "NBS BANK LIMITED",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "NBSTMWMW"
+        },
+        {
+            "id": 20,
+            "bank": "NEDBANK (MALAWI) LIMITED",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "NEDMMWMW"
+        },
+        {
+            "id": 21,
+            "bank": "NEW FINANCE BANK MALAWI LIMITED",
+            "city": "LILONGWE",
+            "branch": null,
+            "swift_code": "NFBMMWMW"
+        },
+        {
+            "id": 22,
+            "bank": "OPPORTUNITY INTERNATIONAL BANK OF MALAWI",
+            "city": "LILONGWE",
+            "branch": null,
+            "swift_code": "OPILMWMW"
+        },
+        {
+            "id": 23,
+            "bank": "RESERVE BANK OF MALAWI",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "RBMAMWMWMRA"
+        },
+        {
+            "id": 24,
+            "bank": "RESERVE BANK OF MALAWI",
+            "city": "LILONGWE",
+            "branch": null,
+            "swift_code": "RBMAMWMW"
+        },
+        {
+            "id": 25,
+            "bank": "RESERVE BANK OF MALAWI",
+            "city": "LILONGWE",
+            "branch": null,
+            "swift_code": "RBMAMWMWMOF"
+        },
+        {
+            "id": 26,
+            "bank": "SABMILLER MALAWI",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "SABMMWM1"
+        },
+        {
+            "id": 27,
+            "bank": "SABMILLER MALAWI",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "SABMMWM1CPL"
+        },
+        {
+            "id": 28,
+            "bank": "SABMILLER MALAWI",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "SABMMWM1MBL"
+        },
+        {
+            "id": 29,
+            "bank": "STANDARD BANK LIMITED-MALAWI",
+            "city": "LILONGWE",
+            "branch": null,
+            "swift_code": "SBICMWMX"
+        },
+        {
+            "id": 30,
+            "bank": "STOCKBROKERS MALAWI LIMITED",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "SBMWMWM1"
+        },
+        {
+            "id": 31,
+            "bank": "TRUST SECURITIES LIMITED",
+            "city": "BLANTYRE",
+            "branch": null,
+            "swift_code": "TRETMWM1"
+        }
+    ]
+}

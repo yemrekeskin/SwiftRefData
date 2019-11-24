@@ -1,0 +1,132 @@
+{
+    "country": "Montenegro",
+    "country_code": "ME",
+    "list": [
+        {
+            "id": 1,
+            "bank": "ADDIKO BANK A.D. PODGORICA",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "HAABMEPG"
+        },
+        {
+            "id": 2,
+            "bank": "ATLAS BANKA AD",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "ATLMMEP2"
+        },
+        {
+            "id": 3,
+            "bank": "CENTRAL BANK OF MONTENEGRO",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "CBCGMEB1"
+        },
+        {
+            "id": 4,
+            "bank": "CENTRALNA BANKA CRNE GORE (CENTRAL BANK OF MONTENEGRO)",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "CBCGMEPG"
+        },
+        {
+            "id": 5,
+            "bank": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "CKBCMEPG"
+        },
+        {
+            "id": 6,
+            "bank": "ERSTE BANK AD PODGORICA",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "OPPOMEPG"
+        },
+        {
+            "id": 7,
+            "bank": "HIPOTEKARNA BANKA AD",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "HBBAMEPG"
+        },
+        {
+            "id": 8,
+            "bank": "IBANKMENT DOO",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "IBDOMEP1"
+        },
+        {
+            "id": 9,
+            "bank": "INVEST BANKA MONTENEGRO AD PODGORICA (FORMALY PLJEVALJSKA BANKA)",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "IBMNMEPG"
+        },
+        {
+            "id": 10,
+            "bank": "KOMERCIJALNA BANKA AD BUDVA",
+            "city": "BUDVA",
+            "branch": null,
+            "swift_code": "KOBBMEP2"
+        },
+        {
+            "id": 11,
+            "bank": "LOVCEN BANKA AD",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "LOVBMEPG"
+        },
+        {
+            "id": 12,
+            "bank": "NLB BANKA AD PODGORICA",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "MNBAMEPG"
+        },
+        {
+            "id": 13,
+            "bank": "NOVA BANKA AD PODGORICA",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "AZMNMEPG"
+        },
+        {
+            "id": 14,
+            "bank": "PRVA BANKA CRNE GORE AD",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "PRVAMEPG"
+        },
+        {
+            "id": 15,
+            "bank": "SOCIETE GENERALE BANKA MONTENEGRO",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "PDBPMEPG"
+        },
+        {
+            "id": 16,
+            "bank": "UNIVERSAL CAPITAL BANK",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "FFBMMEPG"
+        },
+        {
+            "id": 17,
+            "bank": "ZAPAD BANKA AD PODGORICA",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "ZBCGMEPG"
+        },
+        {
+            "id": 18,
+            "bank": "ZIRAAT BANK MONTENEGRO",
+            "city": "PODGORICA",
+            "branch": null,
+            "swift_code": "TCZBMEPG"
+        }
+    ]
+}

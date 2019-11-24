@@ -1,0 +1,482 @@
+{
+    "country": "Latvia",
+    "country_code": "LV",
+    "list": [
+        {
+            "id": 1,
+            "bank": "A\/S SAULES INVESTICIJAS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "TAPSLV21"
+        },
+        {
+            "id": 2,
+            "bank": "AB.LV CAPITAL MARKETS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "ABCRLV21"
+        },
+        {
+            "id": 3,
+            "bank": "ABLV BANK, AS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "AIZKLV22"
+        },
+        {
+            "id": 4,
+            "bank": "ALFAPAY",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "ALFPLV21"
+        },
+        {
+            "id": 5,
+            "bank": "AS BALTIJAS PRIVATBANKA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "BLPBLV21"
+        },
+        {
+            "id": 6,
+            "bank": "AS BLUEORANGE BANK",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "CBBRLV22"
+        },
+        {
+            "id": 7,
+            "bank": "AS EXPOBANK (FORMERLY AS LTB BANK)",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LATCLV22"
+        },
+        {
+            "id": 8,
+            "bank": "AS IBS RENESOURCE CAPITAL",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "IRCALV21"
+        },
+        {
+            "id": 9,
+            "bank": "AS MERIDIAN TRADE BANK",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "MULTLV2X"
+        },
+        {
+            "id": 10,
+            "bank": "AS 'PRIVATBANK'",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "PRTTLV22"
+        },
+        {
+            "id": 11,
+            "bank": "BALTIC INTERNATIONAL BANK",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "BLIBLV22"
+        },
+        {
+            "id": 12,
+            "bank": "BALTICPAY CORPORATION SIA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "BLOILV21"
+        },
+        {
+            "id": 13,
+            "bank": "BANK OF LATVIA",
+            "city": "RIGA",
+            "branch": "(CCBM OPERATIONS)",
+            "swift_code": "LACBLV2XCCB"
+        },
+        {
+            "id": 14,
+            "bank": "BANK OF LATVIA",
+            "city": "RIGA",
+            "branch": "(INSTANT PAYMENTS)",
+            "swift_code": "LACBLV2XAMS"
+        },
+        {
+            "id": 15,
+            "bank": "BANK OF LATVIA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LACBLV2X"
+        },
+        {
+            "id": 16,
+            "bank": "BIGBANK AS LATVIA BRANCH",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "BIGKLV21"
+        },
+        {
+            "id": 17,
+            "bank": "DANSKE BANK A\/S,LATVIJA BRANCH",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "MARALV22"
+        },
+        {
+            "id": 18,
+            "bank": "DEALFIN",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "DEAFLV21"
+        },
+        {
+            "id": 19,
+            "bank": "DILFIN",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "DILFLV21"
+        },
+        {
+            "id": 20,
+            "bank": "DNOVO LTD",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "DNOVLV21"
+        },
+        {
+            "id": 21,
+            "bank": "DUKASCOPY EUROPE IBS AS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "JSSILV21"
+        },
+        {
+            "id": 22,
+            "bank": "DUKASCOPY PAYMENTS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "DUPYLV21"
+        },
+        {
+            "id": 23,
+            "bank": "E LATS, SIA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LATSLV21"
+        },
+        {
+            "id": 24,
+            "bank": "EASTERN EUROPEAN PAYMENT SYSTEM SIA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "EPASLV22"
+        },
+        {
+            "id": 25,
+            "bank": "EVLI BANK LTD",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "EVSELV21"
+        },
+        {
+            "id": 26,
+            "bank": "FINCROSS SECURITIES AS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "FSECLV21"
+        },
+        {
+            "id": 27,
+            "bank": "FSC EU SIA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "FSCELV22"
+        },
+        {
+            "id": 28,
+            "bank": "GLOBAL OVERSEAS BANK A.D.",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "GOSBLV21"
+        },
+        {
+            "id": 29,
+            "bank": "JSC CITADELE BANKA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "PARXLV22"
+        },
+        {
+            "id": 30,
+            "bank": "JSC LATVIAN POST",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LPNSLV21"
+        },
+        {
+            "id": 31,
+            "bank": "KOOPERATIVA KRAJAIZDEVU SABIEDRIBA 'DZELZCELNIEKS KS'",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "KKSDLV21"
+        },
+        {
+            "id": 32,
+            "bank": "LATGALES FINANSU UN INVESTICIJU KOMPANIJA AS",
+            "city": "REZEKNE",
+            "branch": null,
+            "swift_code": "LFIKLV21"
+        },
+        {
+            "id": 33,
+            "bank": "LATVIJAS PASTA BANKA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LAPBLV2X"
+        },
+        {
+            "id": 34,
+            "bank": "LLC INVESTMENT BROKERAGE COMPANY 'MAXIMUS CAPITAL MARKETS'",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LIBCLV21"
+        },
+        {
+            "id": 35,
+            "bank": "LTFJA KKS JURNIEKU FORUMS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LKJFLV21"
+        },
+        {
+            "id": 36,
+            "bank": "LUMINOR BANK AS LATVIA (FORMER NORDEA BANK AB LATVIA)",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "NDEALV2X"
+        },
+        {
+            "id": 37,
+            "bank": "LUMINOR BANK AS, LATVIA (FORMER AS DNB BANKA)",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "RIKOLV2X"
+        },
+        {
+            "id": 38,
+            "bank": "MONEY EXPRESS SIA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "MOXSLV21"
+        },
+        {
+            "id": 39,
+            "bank": "NASDAQ CSD SE",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LCDELV22"
+        },
+        {
+            "id": 40,
+            "bank": "NIXGROUP",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "NIXGLV21"
+        },
+        {
+            "id": 41,
+            "bank": "NORVIK BANKA, JSC",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LATBLV22"
+        },
+        {
+            "id": 42,
+            "bank": "OGRES KOMERCBANKA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "OKBALV21"
+        },
+        {
+            "id": 43,
+            "bank": "OP CORPORATE BANK PLC LATVIA BRANCH",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "OKOYLV2X"
+        },
+        {
+            "id": 44,
+            "bank": "PAYSERA LT",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "PAYELV21"
+        },
+        {
+            "id": 45,
+            "bank": "QIWI WALLET EUROPE SIA FLOOR 1",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "QWESLV21"
+        },
+        {
+            "id": 46,
+            "bank": "REGIONALA INVESTICIJU BANKA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "RIBRLV22"
+        },
+        {
+            "id": 47,
+            "bank": "RIETUMU BANKA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "RTMBLV2X"
+        },
+        {
+            "id": 48,
+            "bank": "RIGA STOCK EXCHANGE",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "XRISLV21"
+        },
+        {
+            "id": 49,
+            "bank": "RIGENSIS BANK AS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "RGNSLV22"
+        },
+        {
+            "id": 50,
+            "bank": "SAMSUNG ELECTRONICS BALTICS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "SECTLV21"
+        },
+        {
+            "id": 51,
+            "bank": "SAMSUNG ELECTRONICS BALTICS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "SECTLV21961"
+        },
+        {
+            "id": 52,
+            "bank": "SC PAREX BANKA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "PAEXLV21"
+        },
+        {
+            "id": 53,
+            "bank": "SEB BANKA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "UNLALV2X"
+        },
+        {
+            "id": 54,
+            "bank": "SIA ABA FINANCE",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "SIAFLV21"
+        },
+        {
+            "id": 55,
+            "bank": "SIA DIXIPAY",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "SIDILV21"
+        },
+        {
+            "id": 56,
+            "bank": "SIA 'SEMFOPAY'",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "SEFMLV2X"
+        },
+        {
+            "id": 57,
+            "bank": "SIA TRANSACT PRO",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "TPROLV22"
+        },
+        {
+            "id": 58,
+            "bank": "SIA WORLDLINE LATVIA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "FRDLLV22"
+        },
+        {
+            "id": 59,
+            "bank": "SIGNET BANK AS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LLBBLV2X"
+        },
+        {
+            "id": 60,
+            "bank": "STEITS, SIA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "SIAILV21"
+        },
+        {
+            "id": 61,
+            "bank": "SUPREMA AS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "SPRALV21"
+        },
+        {
+            "id": 62,
+            "bank": "SVENSKA HANDELSBANKEN AB LATVIAN BRANCH",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "HANDLV22"
+        },
+        {
+            "id": 63,
+            "bank": "SWEDBANK AS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "HABALV22"
+        },
+        {
+            "id": 64,
+            "bank": "TRANSFERMONEY SIA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "TRRSLV21"
+        },
+        {
+            "id": 65,
+            "bank": "TRANSFERTA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "TRSFLV21"
+        },
+        {
+            "id": 66,
+            "bank": "TREASURY OF THE REPUBLIC OF LATVIA, THE",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "TRELLV22"
+        },
+        {
+            "id": 67,
+            "bank": "WOT, SIA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "WOSILV21"
+        },
+        {
+            "id": 68,
+            "bank": "XOPAY, SIA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "OPAYLV21"
+        }
+    ]
+}

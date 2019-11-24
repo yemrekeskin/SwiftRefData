@@ -1,0 +1,125 @@
+{
+    "country": "Antigua and Barbuda",
+    "country_code": "AG",
+    "list": [
+        {
+            "id": 1,
+            "bank": "ANTIGUA COMMERCIAL BANK",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "ANCBAGAG"
+        },
+        {
+            "id": 2,
+            "bank": "ANTIGUA COMMERCIAL BANK",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "AOBAAGA1"
+        },
+        {
+            "id": 3,
+            "bank": "BOI BANK CORPORATION",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "BOIBAGAG"
+        },
+        {
+            "id": 4,
+            "bank": "BRS BANQUE S.A.",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "BRSFAGAG"
+        },
+        {
+            "id": 5,
+            "bank": "BANK OF NOVA SCOTIA,THE",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "NOSCAGAG"
+        },
+        {
+            "id": 6,
+            "bank": "CARIBBEAN UNION BANK LTD",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "CUNBAGAG"
+        },
+        {
+            "id": 7,
+            "bank": "D BANK LTD.",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "DANLAGAG"
+        },
+        {
+            "id": 8,
+            "bank": "EASTERN CARIBBEAN AMALGAMATED BANK LTD. (ECAB)",
+            "city": "COOLIDGE",
+            "branch": null,
+            "swift_code": "ECABAGAG"
+        },
+        {
+            "id": 9,
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "FCIBAGAG"
+        },
+        {
+            "id": 10,
+            "bank": "GLOBAL ALLIANCE BUILDING SOCIETY GLOBAL ALLIANCE GROUP",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "GABCAGA1"
+        },
+        {
+            "id": 11,
+            "bank": "GLOBAL BANK OF COMMERCE, LTD.",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "GBCLAGAG"
+        },
+        {
+            "id": 12,
+            "bank": "GOVERNMENT OF ANTIGUA AND BARBUDA",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "GVABAGAG"
+        },
+        {
+            "id": 13,
+            "bank": "MEINL BANK (ANTIGUA) LIMITED",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "MBALAGAG"
+        },
+        {
+            "id": 14,
+            "bank": "NORTH INTERNATIONAL BANK, LTD.",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "NOITAGAG"
+        },
+        {
+            "id": 15,
+            "bank": "ROYAL BANK OF CANADA",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "ROYCAGAG"
+        },
+        {
+            "id": 16,
+            "bank": "TRIUM BANK AND TRUST LTD.",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "TBTLAGAG"
+        },
+        {
+            "id": 17,
+            "bank": "V.T.I. BANK LTD",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "VTIBAGA1"
+        }
+    ]
+}

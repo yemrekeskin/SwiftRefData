@@ -1,0 +1,125 @@
+{
+    "country": "Saint Kitts and Nevis",
+    "country_code": "KN",
+    "list": [
+        {
+            "id": 1,
+            "bank": "BANCLEAR TRUST CORPORATION",
+            "city": "CHARLESTOWN",
+            "branch": null,
+            "swift_code": "BAUOKNN1"
+        },
+        {
+            "id": 2,
+            "bank": "BANK OF NEVIS INTERNATIONAL LIMITED",
+            "city": "CHARLESTOWN",
+            "branch": null,
+            "swift_code": "BNEIKNNE"
+        },
+        {
+            "id": 3,
+            "bank": "BANK OF NEVIS, THE",
+            "city": "CHARLESTOWN",
+            "branch": null,
+            "swift_code": "BNEVKNNE"
+        },
+        {
+            "id": 4,
+            "bank": "BANK OF NOVA SCOTIA,THE",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "NOSCKNSK"
+        },
+        {
+            "id": 5,
+            "bank": "CENTERLINK, LLC",
+            "city": "CHARLESTOWN",
+            "branch": null,
+            "swift_code": "CNLLKNN1"
+        },
+        {
+            "id": 6,
+            "bank": "EASTERN CARIBBEAN CENTRAL BANK",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "ECCBKNSK"
+        },
+        {
+            "id": 7,
+            "bank": "EASTERN CARIBBEAN SECURITIES EXCHANGE LTD",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "ECSXKNSK"
+        },
+        {
+            "id": 8,
+            "bank": "EUROWIRE CASH MANAGEMENT TRUST",
+            "city": "CHARLESTOWN",
+            "branch": null,
+            "swift_code": "ECMTKNS1"
+        },
+        {
+            "id": 9,
+            "bank": "EUROWIRE CLEARING CORPORATION",
+            "city": "CHARLESTOWN",
+            "branch": null,
+            "swift_code": "EULOKNS1"
+        },
+        {
+            "id": 10,
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "FCIBKNSK"
+        },
+        {
+            "id": 11,
+            "bank": "GLOBAL TRADE AIM LIMITED",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "GLTAKNS1"
+        },
+        {
+            "id": 12,
+            "bank": "GOVERMENT OF ST. KITTS AND NEVIS",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "GVKNKNSK"
+        },
+        {
+            "id": 13,
+            "bank": "MAGNATE PREMIER INVESTMENT BANK LIMITED",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "MAMSKNS1"
+        },
+        {
+            "id": 14,
+            "bank": "MAGNATE PREMIER LIMITED",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "MGPMKNS1"
+        },
+        {
+            "id": 15,
+            "bank": "RBTT BANK (SKN) LIMITED",
+            "city": "CHARLESTOWN",
+            "branch": null,
+            "swift_code": "RBTTKNNE"
+        },
+        {
+            "id": 16,
+            "bank": "ROYAL BANK OF CANADA",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "ROYCKNSK"
+        },
+        {
+            "id": 17,
+            "bank": "ST. KITTS-NEVIS-ANGUILLA NATIONAL BANK",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "KNANKNSK"
+        }
+    ]
+}

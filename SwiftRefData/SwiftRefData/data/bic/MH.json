@@ -1,0 +1,34 @@
+{
+    "country": "Marshall Islands",
+    "country_code": "MH",
+    "list": [
+        {
+            "id": 1,
+            "bank": "ANAMETRICS HOLDINGS LIMITED",
+            "city": "MAJURO",
+            "branch": null,
+            "swift_code": "ANHDMH22"
+        },
+        {
+            "id": 2,
+            "bank": "BANK OF HAWAII",
+            "city": "MAJURO",
+            "branch": null,
+            "swift_code": "BOHIMH21"
+        },
+        {
+            "id": 3,
+            "bank": "BANK OF MARSHALL ISLANDS",
+            "city": "MAJURO",
+            "branch": null,
+            "swift_code": "BOMDMH22"
+        },
+        {
+            "id": 4,
+            "bank": "WADIAH CAPITAL LTD",
+            "city": "MAJURO",
+            "branch": null,
+            "swift_code": "WACPMH21"
+        }
+    ]
+}

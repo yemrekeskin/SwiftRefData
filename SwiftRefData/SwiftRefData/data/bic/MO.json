@@ -1,0 +1,237 @@
+{
+    "country": "Macao",
+    "country_code": "MO",
+    "list": [
+        {
+            "id": 1,
+            "bank": "AUTORIDADE MONETARIA DE MACAU",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "MFAMMOMX"
+        },
+        {
+            "id": 2,
+            "bank": "BANCO COMERCIAL DE MACAU, S.A.",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "CMACMOMX"
+        },
+        {
+            "id": 3,
+            "bank": "BANCO COMMERCIAL PORTUGUES",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "BCOMMOMX"
+        },
+        {
+            "id": 4,
+            "bank": "BANCO DELTA ASIA S.A.",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "DABGMOMX"
+        },
+        {
+            "id": 5,
+            "bank": "BANCO NACIONAL ULTRAMARINO, SA",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "BNULMOMX"
+        },
+        {
+            "id": 6,
+            "bank": "BANCO WELL LINK, S.A.",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "BESCMOMX"
+        },
+        {
+            "id": 7,
+            "bank": "BANK OF CHINA, MACAU BRANCH",
+            "city": "MACAU",
+            "branch": "(RENMINBI CLEARING CENTRE)",
+            "swift_code": "BKCHMOMX868"
+        },
+        {
+            "id": 8,
+            "bank": "BANK OF CHINA, MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "BKCHMOMX"
+        },
+        {
+            "id": 9,
+            "bank": "BANK OF COMMUNICATIONS CO.,LTD. MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "COMMMOMX"
+        },
+        {
+            "id": 10,
+            "bank": "BANK SINOPAC (FORMERLY INT'L BANK OF TAIPEI)",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "SINOMOMX"
+        },
+        {
+            "id": 11,
+            "bank": "CAIXA ECONOMICA POSTAL",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "CIEPMOMX"
+        },
+        {
+            "id": 12,
+            "bank": "CAIXA GERAL DE DEPOSITOS, SA - SUCURSAL OFFSHORE DE MACAU",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "CGDIMOMX"
+        },
+        {
+            "id": 13,
+            "bank": "CHINA CITIC BANK INTERNATIONAL LIMITED MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "KWHKMOMX"
+        },
+        {
+            "id": 14,
+            "bank": "CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH",
+            "city": "MACAU",
+            "branch": "(RETAIL AND COMMERCIAL)",
+            "swift_code": "CCBQMOMXRTL"
+        },
+        {
+            "id": 15,
+            "bank": "CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "CCBQMOMX"
+        },
+        {
+            "id": 16,
+            "bank": "CHINA GUANGFA BANK CO., LTD MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "GDBKMOMX"
+        },
+        {
+            "id": 17,
+            "bank": "CHONG HING BANK LIMITED MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "LCHBMOMX"
+        },
+        {
+            "id": 18,
+            "bank": "CITIBANK NA, MACAU",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "CITIMOMX"
+        },
+        {
+            "id": 19,
+            "bank": "DBS BANK (HONG KONG) LIMITED, MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "DBSSMOMX"
+        },
+        {
+            "id": 20,
+            "bank": "DEUTSCHE BANK AG",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "DEUTMOM1"
+        },
+        {
+            "id": 21,
+            "bank": "FIRST COMMERCIAL BANK, MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "FCBKMOMX"
+        },
+        {
+            "id": 22,
+            "bank": "HANG SENG BANK LIMITED,MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "HASEMOMX"
+        },
+        {
+            "id": 23,
+            "bank": "HUA NAN COMMERCIAL BANK,LTD. MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "HNBKMOMX"
+        },
+        {
+            "id": 24,
+            "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU) LIMITED",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "ICBKMOMX"
+        },
+        {
+            "id": 25,
+            "bank": "LUSO INTERNATIONAL BANKING LTD.",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "LUSOMOMX"
+        },
+        {
+            "id": 26,
+            "bank": "OCBC WING HANG BANK LIMITED",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "WIHBMOMX"
+        },
+        {
+            "id": 27,
+            "bank": "STANDARD CHARTERED BANK",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "SCBLMOMX"
+        },
+        {
+            "id": 28,
+            "bank": "TAI FUNG BANK LIMITED",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "TFBLMOMX"
+        },
+        {
+            "id": 29,
+            "bank": "THE BANK OF EAST ASIA,LIMITED MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "BEASMOMX"
+        },
+        {
+            "id": 30,
+            "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "HSBCMOMX"
+        },
+        {
+            "id": 31,
+            "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "HSBCMOMXAAM"
+        },
+        {
+            "id": 32,
+            "bank": "THE MACAU CHINESE BANK LIMITED",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "MCHNMOMX"
+        },
+        {
+            "id": 33,
+            "bank": "WING LUNG BANK LIMITED MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "WUBAMOMX"
+        }
+    ]
+}

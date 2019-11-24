@@ -1,0 +1,34 @@
+{
+    "country": "Anguilla",
+    "country_code": "AI",
+    "list": [
+        {
+            "id": 1,
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED",
+            "city": "THE VALLEY",
+            "branch": null,
+            "swift_code": "FCIBAIAI"
+        },
+        {
+            "id": 2,
+            "bank": "GOVERNMENT OF ANGUILLA",
+            "city": "THE VALLEY",
+            "branch": null,
+            "swift_code": "GVANAIAI"
+        },
+        {
+            "id": 3,
+            "bank": "NATIONAL COMMERCIAL BANK OF ANGUILLA LTD",
+            "city": "THE VALLEY",
+            "branch": null,
+            "swift_code": "ANGUAIAI"
+        },
+        {
+            "id": 4,
+            "bank": "SCOTIABANK ANGUILLA LTD.",
+            "city": "THE VALLEY",
+            "branch": null,
+            "swift_code": "NOSCAIAI"
+        }
+    ]
+}

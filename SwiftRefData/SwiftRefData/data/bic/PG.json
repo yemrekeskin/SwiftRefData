@@ -1,0 +1,55 @@
+{
+    "country": "Papua New Guinea",
+    "country_code": "PG",
+    "list": [
+        {
+            "id": 1,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP (PNG) LTD.",
+            "city": "PORT MORESBY",
+            "branch": null,
+            "swift_code": "ANZBPGPX"
+        },
+        {
+            "id": 2,
+            "bank": "BANK OF PAPUA NEW GUINEA",
+            "city": "PORT MORESBY",
+            "branch": null,
+            "swift_code": "BPNGPGPM"
+        },
+        {
+            "id": 3,
+            "bank": "BANK OF SOUTH PACIFIC LIMITED",
+            "city": "PORT MORESBY",
+            "branch": null,
+            "swift_code": "BOSPPGPM"
+        },
+        {
+            "id": 4,
+            "bank": "BRITISH AMERICAN TOBACCO (PNG) LIMITED",
+            "city": "PORT MORESBY",
+            "branch": null,
+            "swift_code": "BATSPGA1"
+        },
+        {
+            "id": 5,
+            "bank": "FIRST INVESTMENT FINANCE LIMITED",
+            "city": "PORT MORESBY",
+            "branch": null,
+            "swift_code": "FIVFPGPM"
+        },
+        {
+            "id": 6,
+            "bank": "KINA BANK LIMITED",
+            "city": "PORT MORESBY",
+            "branch": null,
+            "swift_code": "KINIPGPG"
+        },
+        {
+            "id": 7,
+            "bank": "WESTPAC BANK - PNG - LIMITED",
+            "city": "PORT MORESBY",
+            "branch": null,
+            "swift_code": "WPACPGPM"
+        }
+    ]
+}

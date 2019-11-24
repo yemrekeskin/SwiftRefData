@@ -1,0 +1,83 @@
+{
+    "country": "R\u00e9union",
+    "country_code": "RE",
+    "list": [
+        {
+            "id": 1,
+            "bank": "BANQUE FRANCAISE COMMERCIALE DE L'OCEAN INDIEN",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "BFCORERX"
+        },
+        {
+            "id": 2,
+            "bank": "BNP PARIBAS LA REUNION",
+            "city": "LE PORT",
+            "branch": null,
+            "swift_code": "BNPARERXPOR"
+        },
+        {
+            "id": 3,
+            "bank": "BNP PARIBAS LA REUNION",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "BNPARERX"
+        },
+        {
+            "id": 4,
+            "bank": "CAISSE D'EPARGNE CEPAC (FORMERLY BANQUE DE LA REUNION)",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "REUBRERX"
+        },
+        {
+            "id": 5,
+            "bank": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DE LA REUNION",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "CGRARER1"
+        },
+        {
+            "id": 6,
+            "bank": "CREDIT AGRICOLE",
+            "city": "LE PORT",
+            "branch": null,
+            "swift_code": "AGRIRERXLEO"
+        },
+        {
+            "id": 7,
+            "bank": "CREDIT AGRICOLE",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "AGRIRERX"
+        },
+        {
+            "id": 8,
+            "bank": "CREDIT AGRICOLE",
+            "city": "SAINT LOUIS",
+            "branch": "(LA REUNION BRANCH)",
+            "swift_code": "AGRIRERXSNL"
+        },
+        {
+            "id": 9,
+            "bank": "OCEOR LEASE REUNION",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "OCLRRER1"
+        },
+        {
+            "id": 10,
+            "bank": "SOCIETE FINANCIERE POUR LE DEVELOPPEMENT DE LA REUNION",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "SODIRER1"
+        },
+        {
+            "id": 11,
+            "bank": "SOCIETE REUNIONNAISE DE FINT-SOREFI",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "SORFRER1"
+        }
+    ]
+}

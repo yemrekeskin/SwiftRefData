@@ -1,0 +1,48 @@
+{
+    "country": "Tonga",
+    "country_code": "TO",
+    "list": [
+        {
+            "id": 1,
+            "bank": "ANZ BANKING GROUP LIMITED",
+            "city": "NUKU'ALOFA",
+            "branch": null,
+            "swift_code": "ANZBTONN"
+        },
+        {
+            "id": 2,
+            "bank": "BANK OF SOUTH PACIFIC TONGA LIMITED",
+            "city": "NUKU'ALOFA",
+            "branch": null,
+            "swift_code": "BOSPTONU"
+        },
+        {
+            "id": 3,
+            "bank": "BAT TONGA",
+            "city": "TONGA",
+            "branch": null,
+            "swift_code": "BATSTOA1"
+        },
+        {
+            "id": 4,
+            "bank": "MBF BANK LIMITED",
+            "city": "NUKU'ALOFA",
+            "branch": null,
+            "swift_code": "MBFMTONU"
+        },
+        {
+            "id": 5,
+            "bank": "NATIONAL RESERVE BANK OF TONGA",
+            "city": "NUKU'ALOFA",
+            "branch": null,
+            "swift_code": "NRBTTONU"
+        },
+        {
+            "id": 6,
+            "bank": "TONGA DEVELOPMENT BANK",
+            "city": "NUKU'ALOFA",
+            "branch": null,
+            "swift_code": "TODETONU"
+        }
+    ]
+}

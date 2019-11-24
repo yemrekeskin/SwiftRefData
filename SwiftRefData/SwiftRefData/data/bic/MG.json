@@ -1,0 +1,118 @@
+{
+    "country": "Madagascar",
+    "country_code": "MG",
+    "list": [
+        {
+            "id": 1,
+            "bank": "ACCESBANQUE MADAGASCAR",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "ABMGMGMG"
+        },
+        {
+            "id": 2,
+            "bank": "BANK OF AFRICA MADAGASCAR",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "AFRIMGMG"
+        },
+        {
+            "id": 3,
+            "bank": "BANQUE CENTRALE DE MADAGASCAR",
+            "city": "ANTANANARIVO",
+            "branch": "(RTGS BACKUP LINE)",
+            "swift_code": "REPUMGMGRTG"
+        },
+        {
+            "id": 4,
+            "bank": "BANQUE CENTRALE DE MADAGASCAR",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "REPUMGMG"
+        },
+        {
+            "id": 5,
+            "bank": "BANQUE MALGACHE DE L'OCEAN INDIEN",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "BMOIMGMG"
+        },
+        {
+            "id": 6,
+            "bank": "BANQUE SBM MADAGASCAR",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "BSBMMGMG"
+        },
+        {
+            "id": 7,
+            "bank": "BFV-SOCIETE GENERALE",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "BFAVMGMG"
+        },
+        {
+            "id": 8,
+            "bank": "BGFIBANK MADAGASCAR",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "BGFIMGMG"
+        },
+        {
+            "id": 9,
+            "bank": "BM MADAGASCAR S.A",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "BAIMMGMG"
+        },
+        {
+            "id": 10,
+            "bank": "BNI MADAGASCAR",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "CLMDMGMG"
+        },
+        {
+            "id": 11,
+            "bank": "BNI MADAGASCAR",
+            "city": "ANTSIRANANA",
+            "branch": null,
+            "swift_code": "CLMDMGM10MA"
+        },
+        {
+            "id": 12,
+            "bank": "BNI MADAGASCAR",
+            "city": "MAHAJANGA",
+            "branch": null,
+            "swift_code": "CLMDMGM10MM"
+        },
+        {
+            "id": 13,
+            "bank": "BNI MADAGASCAR",
+            "city": "TOAMASINA",
+            "branch": null,
+            "swift_code": "CLMDMGM10MT"
+        },
+        {
+            "id": 14,
+            "bank": "MARCHE INTERBANCAIRE DES DEVISES M.I.D.",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "XMDGMGM1"
+        },
+        {
+            "id": 15,
+            "bank": "PAOSITRA MALAGASY",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "PAMLMGM1"
+        },
+        {
+            "id": 16,
+            "bank": "THE MAURITIUS COMMERCIAL BANK (MADAGASCAR) SA",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "MCBLMGMG"
+        }
+    ]
+}

@@ -1,0 +1,552 @@
+{
+    "country": "Croatia",
+    "country_code": "HR",
+    "list": [
+        {
+            "id": 1,
+            "bank": "ADDIKO BANK D.D.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "HAABHR22"
+        },
+        {
+            "id": 2,
+            "bank": "AGRAM BROKERI D.D.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "AGBOHR21"
+        },
+        {
+            "id": 3,
+            "bank": "AKTIV BROKER D.O.O.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "AKBDHR21"
+        },
+        {
+            "id": 4,
+            "bank": "ALLIANZ B",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "ALLNHR21"
+        },
+        {
+            "id": 5,
+            "bank": "ANTEA BROKERI D.O.O.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "ANBOHR21"
+        },
+        {
+            "id": 6,
+            "bank": "AUCTOR D.O.O.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "AUDOHR21"
+        },
+        {
+            "id": 7,
+            "bank": "BANKA KOVANICA D.D.",
+            "city": "VARAZDIN",
+            "branch": null,
+            "swift_code": "SKOVHR22"
+        },
+        {
+            "id": 8,
+            "bank": "BAT HRVATSKA D.O.O.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "BATSHR21"
+        },
+        {
+            "id": 9,
+            "bank": "BKS BANK AG, GLAVNA PODRUZNICA HRVATSKA",
+            "city": "RIJEKA",
+            "branch": null,
+            "swift_code": "BFKKHR22"
+        },
+        {
+            "id": 10,
+            "bank": "CREDOS D.O.O.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "CDDOHR21"
+        },
+        {
+            "id": 11,
+            "bank": "CROATIA BANKA D.D.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "CROAHR2X"
+        },
+        {
+            "id": 12,
+            "bank": "CROATIAN BANK FOR RECONSTRUCTION AND DEVELOPMENT\/HBOR\/",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "HKBOHR2X"
+        },
+        {
+            "id": 13,
+            "bank": "ERSTE AND STEIERMAERKISCHE BANK D.D.",
+            "city": "RIJEKA",
+            "branch": null,
+            "swift_code": "ESBCHR22"
+        },
+        {
+            "id": 14,
+            "bank": "FIMA SECURITIES LTD",
+            "city": "VARAZDIN",
+            "branch": null,
+            "swift_code": "FMVZHR21"
+        },
+        {
+            "id": 15,
+            "bank": "FINANCIJSKA AGENCIJA",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "FNAGHR22"
+        },
+        {
+            "id": 16,
+            "bank": "GREENHOUSE GASES NATIONAL REGISTRY",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "GGNRHR21"
+        },
+        {
+            "id": 17,
+            "bank": "HITA VRIJEDNOSNICE D.D",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "HIVRHR21"
+        },
+        {
+            "id": 18,
+            "bank": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
+            "city": "ZAGREB",
+            "branch": "(DOMESTIC PAYMENT SYSTEM)",
+            "swift_code": "NBHRHR2D"
+        },
+        {
+            "id": 19,
+            "bank": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "NBHRHR2X"
+        },
+        {
+            "id": 20,
+            "bank": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "NBHRHR2XEUX"
+        },
+        {
+            "id": 21,
+            "bank": "HRVATSKA POSTANSKA BANKA D.D.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "HPBZHR2X"
+        },
+        {
+            "id": 22,
+            "bank": "ICAM LTD",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "ICMMHR21"
+        },
+        {
+            "id": 23,
+            "bank": "IMEX BANKA LTD.",
+            "city": "SPLIT",
+            "branch": null,
+            "swift_code": "IMXXHR22"
+        },
+        {
+            "id": 24,
+            "bank": "INTERCAPITAL SECURITIES LTD.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "INUIHR21"
+        },
+        {
+            "id": 25,
+            "bank": "INTERCAPITAL SECURITIES LTD.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "INUIHR22"
+        },
+        {
+            "id": 26,
+            "bank": "INTERNATIONAL DISCOVERY LTD",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "IDISHR21"
+        },
+        {
+            "id": 27,
+            "bank": "ISTARSKA KREDITNA BANKA JOINT STOCK COMPANY",
+            "city": "UMAG",
+            "branch": null,
+            "swift_code": "ISKBHR2X"
+        },
+        {
+            "id": 28,
+            "bank": "J AND T BANKA D.D.",
+            "city": "VARAZDIN",
+            "branch": null,
+            "swift_code": "VBVZHR22"
+        },
+        {
+            "id": 29,
+            "bank": "JADRANSKA BANKA D.D. SIBENIK",
+            "city": "SIBENIK",
+            "branch": null,
+            "swift_code": "JADRHR2X"
+        },
+        {
+            "id": 30,
+            "bank": "JUR-PROM MOTO D.O.O.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "JUMDHR21"
+        },
+        {
+            "id": 31,
+            "bank": "KARLOVACKA BANKA D.D.",
+            "city": "KARLOVAC",
+            "branch": null,
+            "swift_code": "KALCHR2X"
+        },
+        {
+            "id": 32,
+            "bank": "KENTBANK D.D.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "KENBHR22"
+        },
+        {
+            "id": 33,
+            "bank": "KREDITNA BANKA ZAGREB D.D.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "KREZHR2X"
+        },
+        {
+            "id": 34,
+            "bank": "OTP BANKA HRVATSKA D.D.",
+            "city": "DUBROVNIK",
+            "branch": "(DUBROVNIK)",
+            "swift_code": "OTPVHR2XDUB"
+        },
+        {
+            "id": 35,
+            "bank": "OTP BANKA HRVATSKA D.D.",
+            "city": "PULA",
+            "branch": null,
+            "swift_code": "OTPVHR2XPUL"
+        },
+        {
+            "id": 36,
+            "bank": "OTP BANKA HRVATSKA D.D.",
+            "city": "RIJEKA",
+            "branch": "(RIJEKA)",
+            "swift_code": "OTPVHR2XRJK"
+        },
+        {
+            "id": 37,
+            "bank": "OTP BANKA HRVATSKA D.D.",
+            "city": "SIBENIK",
+            "branch": "(SIBENIK)",
+            "swift_code": "OTPVHR2XSIB"
+        },
+        {
+            "id": 38,
+            "bank": "OTP BANKA HRVATSKA D.D.",
+            "city": "SISAK",
+            "branch": null,
+            "swift_code": "OTPVHR2XSIS"
+        },
+        {
+            "id": 39,
+            "bank": "OTP BANKA HRVATSKA D.D.",
+            "city": "SPLIT",
+            "branch": null,
+            "swift_code": "OTPVHR2XSPL"
+        },
+        {
+            "id": 40,
+            "bank": "OTP BANKA HRVATSKA D.D.",
+            "city": "ZADAR",
+            "branch": null,
+            "swift_code": "OTPVHR2X"
+        },
+        {
+            "id": 41,
+            "bank": "OTP BANKA HRVATSKA D.D.",
+            "city": "ZADAR",
+            "branch": null,
+            "swift_code": "OTPVHR2XZAD"
+        },
+        {
+            "id": 42,
+            "bank": "OTP BANKA HRVATSKA D.D.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "OTPVHR2XZAG"
+        },
+        {
+            "id": 43,
+            "bank": "PARTNER BANKA D.D. ZAGREB",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "PAZGHR2X"
+        },
+        {
+            "id": 44,
+            "bank": "PODRAVSKA BANKA D.D.",
+            "city": "KOPRIVNICA",
+            "branch": null,
+            "swift_code": "PDKCHR2X"
+        },
+        {
+            "id": 45,
+            "bank": "PRIMORSKA BANKA D.D RIJEKA",
+            "city": "RIJEKA",
+            "branch": null,
+            "swift_code": "SPRMHR22"
+        },
+        {
+            "id": 46,
+            "bank": "PRIVREDNA BANKA ZAGREB D.D.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "PBZGHR2X"
+        },
+        {
+            "id": 47,
+            "bank": "RAIFFEISEN INVESTMENT",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "RAIVHR21"
+        },
+        {
+            "id": 48,
+            "bank": "RAIFFEISENBANK AUSTRIA D.D. ZAGREB",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "RZBHHR2X"
+        },
+        {
+            "id": 49,
+            "bank": "RAST D.O.O.",
+            "city": "VARAZDIN",
+            "branch": null,
+            "swift_code": "RSDOHR21"
+        },
+        {
+            "id": 50,
+            "bank": "SAMOBORSKA BANKA D.D.",
+            "city": "SAMOBOR",
+            "branch": null,
+            "swift_code": "SMBRHR22"
+        },
+        {
+            "id": 51,
+            "bank": "SBERBANK D.D.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "VBCRHR22"
+        },
+        {
+            "id": 52,
+            "bank": "SKDD-CCP SMART CLEAR D.D.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "CCPHHR21"
+        },
+        {
+            "id": 53,
+            "bank": "SLATINSKA BANKA DD",
+            "city": "SLATINA",
+            "branch": null,
+            "swift_code": "SBSLHR2X"
+        },
+        {
+            "id": 54,
+            "bank": "SPLITSKA BANKA DD",
+            "city": "SPLIT",
+            "branch": "(MINIMUM RESERVE REQUIREMENT WITH CNB)",
+            "swift_code": "SOGEHR22MMR"
+        },
+        {
+            "id": 55,
+            "bank": "SPLITSKA BANKA DD",
+            "city": "SPLIT",
+            "branch": null,
+            "swift_code": "SOGEHR22"
+        },
+        {
+            "id": 56,
+            "bank": "SREDISNJE KLIRINSKO DEPOZITARNO DRUSTVO D.D.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "SDAHHR22"
+        },
+        {
+            "id": 57,
+            "bank": "STEDBANKA D.D.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "STEDHR22"
+        },
+        {
+            "id": 58,
+            "bank": "TESLA STEDNA BANKA D.D.",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "ASBZHR22"
+        },
+        {
+            "id": 59,
+            "bank": "VENETO BANKA DD",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "CCBZHR2X"
+        },
+        {
+            "id": 60,
+            "bank": "ZAGREB STOCK EXCHANGE",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "XZAGHR21"
+        },
+        {
+            "id": 61,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "BJELOVAR",
+            "branch": "(BJELOVAR BRANCH)",
+            "swift_code": "ZABAHR2XBJE"
+        },
+        {
+            "id": 62,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "DJURDJEVAC",
+            "branch": "(DJURDJEVAC BRANCH)",
+            "swift_code": "ZABAHR2XDJU"
+        },
+        {
+            "id": 63,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "DUBROVNIK",
+            "branch": "(DUBROVNIK BRANCH)",
+            "swift_code": "ZABAHR2XDUB"
+        },
+        {
+            "id": 64,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "KRIZEVCI",
+            "branch": "(KRIZEVCI BRANCH)",
+            "swift_code": "ZABAHR2XKRI"
+        },
+        {
+            "id": 65,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "MAKARSKA",
+            "branch": "(MAKARSKA BRANCH)",
+            "swift_code": "ZABAHR2XMAK"
+        },
+        {
+            "id": 66,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "NOVA GRADISKA",
+            "branch": "(NOVA GRADISKA BRANCH)",
+            "swift_code": "ZABAHR2XNOV"
+        },
+        {
+            "id": 67,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "OSIJEK",
+            "branch": "(OSIJEK BRANCH)",
+            "swift_code": "ZABAHR2XOSI"
+        },
+        {
+            "id": 68,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "POREC",
+            "branch": "(POREC BRANCH)",
+            "swift_code": "ZABAHR2XPOR"
+        },
+        {
+            "id": 69,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "PULA",
+            "branch": "(PULA BRANCH)",
+            "swift_code": "ZABAHR2XPUL"
+        },
+        {
+            "id": 70,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "RIJEKA",
+            "branch": "(RIJEKA BRANCH)",
+            "swift_code": "ZABAHR2XRIJ"
+        },
+        {
+            "id": 71,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "ROVINJ",
+            "branch": "(ROVINJ BRANCH)",
+            "swift_code": "ZABAHR2XROV"
+        },
+        {
+            "id": 72,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "SIBENIK",
+            "branch": "(SIBENIK BRANCH)",
+            "swift_code": "ZABAHR2XSIB"
+        },
+        {
+            "id": 73,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "SPLIT",
+            "branch": "(SPLIT BRANCH)",
+            "swift_code": "ZABAHR2XSPL"
+        },
+        {
+            "id": 74,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "UMAG",
+            "branch": "(UMAG BRANCH)",
+            "swift_code": "ZABAHR2XUMA"
+        },
+        {
+            "id": 75,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "VIROVITICA",
+            "branch": "(VIROVITICA BRANCH)",
+            "swift_code": "ZABAHR2XVIR"
+        },
+        {
+            "id": 76,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "ZABOK",
+            "branch": "(ZABOK BRANCH)",
+            "swift_code": "ZABAHR2XZAB"
+        },
+        {
+            "id": 77,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "ZADAR",
+            "branch": "(ZADAR BRANCH)",
+            "swift_code": "ZABAHR2XZAD"
+        },
+        {
+            "id": 78,
+            "bank": "ZAGREBACKA BANKA DD",
+            "city": "ZAGREB",
+            "branch": null,
+            "swift_code": "ZABAHR2X"
+        }
+    ]
+}

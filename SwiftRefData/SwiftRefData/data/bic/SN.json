@@ -1,0 +1,258 @@
+{
+    "country": "Senegal",
+    "country_code": "SN",
+    "list": [
+        {
+            "id": 1,
+            "bank": "BANK OF AFRICA-SENEGAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "AFRISNDA"
+        },
+        {
+            "id": 2,
+            "bank": "BANQUE ATLANTIQUE SENEGAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "ATSNSNDA"
+        },
+        {
+            "id": 3,
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "DAKAR",
+            "branch": "(AGENCE NATIONALE)",
+            "swift_code": "BCAOSNDA001"
+        },
+        {
+            "id": 4,
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "BCAOSNDA"
+        },
+        {
+            "id": 5,
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "KAOLACK",
+            "branch": "(KAOLACK BRANCH)",
+            "swift_code": "BCAOSNDAKAO"
+        },
+        {
+            "id": 6,
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "ZIGUINCHOR",
+            "branch": "(ZIGUINCHOR BRANCH)",
+            "swift_code": "BCAOSNDAZIG"
+        },
+        {
+            "id": 7,
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST (B.C.E.A.O.)",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "BCAOSNDP"
+        },
+        {
+            "id": 8,
+            "bank": "BANQUE DE DAKAR SA",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "BDKRSNDA"
+        },
+        {
+            "id": 9,
+            "bank": "BANQUE DE L'HABITAT DU SENEGAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "LHSESNDA"
+        },
+        {
+            "id": 10,
+            "bank": "BANQUE DES INSTITUTIONS MUTUALISTES D'AFRIQUE DE L'OUEST",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "BIMUSNDA"
+        },
+        {
+            "id": 11,
+            "bank": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "BICISNDX"
+        },
+        {
+            "id": 12,
+            "bank": "BANQUE ISLAMIQUE DU SENEGAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "ISSNSNDA"
+        },
+        {
+            "id": 13,
+            "bank": "BANQUE NATIONALE POUR LE DEVELOPPEMENT ECONOMIQUE DU SENEGAL (BNDE)",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "BNDXSNDA"
+        },
+        {
+            "id": 14,
+            "bank": "BANQUE POUR LE COMMERCE ET L'INDUSTRIE SENEGAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "COLISNDA"
+        },
+        {
+            "id": 15,
+            "bank": "BANQUE REGIONALE DE MARCHES",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "BRMXSNDA"
+        },
+        {
+            "id": 16,
+            "bank": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (SENEGAL) S.A.",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "BSAHSNDA"
+        },
+        {
+            "id": 17,
+            "bank": "BGFIBANK SENEGAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "BGFISNDA"
+        },
+        {
+            "id": 18,
+            "bank": "CAISSE NATIONALE DE CREDIT AGRICOLE DU SENEGAL (C.N.C.A.S.)",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "CADKSNDA"
+        },
+        {
+            "id": 19,
+            "bank": "CAISSE NATIONALE D'EPARGNE",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "NDECSND1"
+        },
+        {
+            "id": 20,
+            "bank": "CITIBANK N.A.",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "CITISNDA"
+        },
+        {
+            "id": 21,
+            "bank": "COMPAGNIE BANCAIRE DE L'AFRIQUE OCCIDENTALE",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "CBAOSNDA"
+        },
+        {
+            "id": 22,
+            "bank": "CORIS BANK INTERNATIONAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "CORISNDA"
+        },
+        {
+            "id": 23,
+            "bank": "CREDIT DU SENEGAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "BCMASNDA"
+        },
+        {
+            "id": 24,
+            "bank": "CREDIT INTERNATIONAL SA",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "CLIBSNDA"
+        },
+        {
+            "id": 25,
+            "bank": "DEPOSITAIRE CENTRAL-BANQUE DE REGLEMENT (DCBR SENEGAL)",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "DCECSND1"
+        },
+        {
+            "id": 26,
+            "bank": "DIAMONDBANK SENEGAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "DBLNSNDA"
+        },
+        {
+            "id": 27,
+            "bank": "ECOBANK SENEGAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "ECOCSNDA"
+        },
+        {
+            "id": 28,
+            "bank": "INTERNATIONAL COMMERCIAL BANK SENEGAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "ICSGSNDA"
+        },
+        {
+            "id": 29,
+            "bank": "LA POSTE",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "LPSTSND1"
+        },
+        {
+            "id": 30,
+            "bank": "MASSRAF FAYSAL AL ISLAMI SENEGAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "MFISSND1"
+        },
+        {
+            "id": 31,
+            "bank": "ORABANK SENEGAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "ORBKSNDA"
+        },
+        {
+            "id": 32,
+            "bank": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+            "city": "DAKAR",
+            "branch": "(NEW IBE PROJECT)",
+            "swift_code": "SGSNSNDAIBE"
+        },
+        {
+            "id": 33,
+            "bank": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "SGSNSNDA"
+        },
+        {
+            "id": 34,
+            "bank": "SONABANQUE",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "SONASND1"
+        },
+        {
+            "id": 35,
+            "bank": "UNION SENEGALAISE DE BANQUE POUR LE COMMERCE ET L'INDUSTRIE",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "USBASND1"
+        },
+        {
+            "id": 36,
+            "bank": "UNITED BANK FOR AFRICA SENEGAL",
+            "city": "DAKAR",
+            "branch": null,
+            "swift_code": "UNAFSNDA"
+        }
+    ]
+}

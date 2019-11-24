@@ -1,0 +1,342 @@
+{
+    "country": "Cura\u00e7ao",
+    "country_code": "CW",
+    "list": [
+        {
+            "id": 1,
+            "bank": "ABB INVESTMENT N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "ABBNCWC1"
+        },
+        {
+            "id": 2,
+            "bank": "ABN-AMRO TRUST COMPANY",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "ABNACWC1"
+        },
+        {
+            "id": 3,
+            "bank": "ADAMA IRVITA N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "IRPPCWCW"
+        },
+        {
+            "id": 4,
+            "bank": "BANCARIBE CURACAO BANK N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "CARACWCU"
+        },
+        {
+            "id": 5,
+            "bank": "BANCO ALIADO INTERNACIONAL NV",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "BALICWC1"
+        },
+        {
+            "id": 6,
+            "bank": "BANCO CONTINENTAL OVERSEAS N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "COOVCWC1"
+        },
+        {
+            "id": 7,
+            "bank": "BANCO DEL ORINOCO",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "ORIBCWCU"
+        },
+        {
+            "id": 8,
+            "bank": "BANCO DI CARIBE N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "BDCCCWCU"
+        },
+        {
+            "id": 9,
+            "bank": "BANCO MERCANTIL",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "BAMRCWC1"
+        },
+        {
+            "id": 10,
+            "bank": "BANCO NACIONAL DE CREDITO, C.A. B U, SRCSAL CURACAO",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "NCRTCWCA"
+        },
+        {
+            "id": 11,
+            "bank": "BANCO PROVINCIAL",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "BPROCWC1"
+        },
+        {
+            "id": 12,
+            "bank": "BANCO PROVINCIAL OVERSEAS N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "BPOCCWCU"
+        },
+        {
+            "id": 13,
+            "bank": "BLUE BANK INTERNATIONAL N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "BBICCWCW"
+        },
+        {
+            "id": 14,
+            "bank": "BNC INTERNATIONAL BANK NV",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "SKYBCWCU"
+        },
+        {
+            "id": 15,
+            "bank": "CENTRALE BANK VAN CURACAO EN SINT MAARTEN",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "CBCSCWCU"
+        },
+        {
+            "id": 16,
+            "bank": "CITCO BANKING CORPORATION N.V.",
+            "city": "WILLEMSTAD",
+            "branch": "(DEALING ROOM)",
+            "swift_code": "CITCCWCUDSK"
+        },
+        {
+            "id": 17,
+            "bank": "CITCO BANKING CORPORATION N.V.",
+            "city": "WILLEMSTAD",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "CITCCWCU"
+        },
+        {
+            "id": 18,
+            "bank": "DEUTSCHE BANK FINANCE N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "DEFBCWC1"
+        },
+        {
+            "id": 19,
+            "bank": "DVB BANK AMERICA N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "DVKBCWC1"
+        },
+        {
+            "id": 20,
+            "bank": "EBNA BANK N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "EBNVCWCU"
+        },
+        {
+            "id": 21,
+            "bank": "EXPRINTER INTERNATIONAL BANK N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "EINBCWCU"
+        },
+        {
+            "id": 22,
+            "bank": "FIRST CURACAO INTERNATIONAL BANK N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "FCURCWCU"
+        },
+        {
+            "id": 23,
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN LTD) CURACAO BRANCH",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "FCIBCWCD"
+        },
+        {
+            "id": 24,
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN LTD) CURACAO BRANCH",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "FCIBCWCU"
+        },
+        {
+            "id": 25,
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (CURACAO) N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "FCIBCWC2"
+        },
+        {
+            "id": 26,
+            "bank": "GIROBANK INTERNATIONAL N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "GIRCCWCC"
+        },
+        {
+            "id": 27,
+            "bank": "GIROBANK N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "GIRCCWCU"
+        },
+        {
+            "id": 28,
+            "bank": "HB SUBHOLDING B.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "HBBOCWCU"
+        },
+        {
+            "id": 29,
+            "bank": "HOLLANDSCHE BANK-UNIE (INTERNATIONA L) N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "HOLUCWC1"
+        },
+        {
+            "id": 30,
+            "bank": "INTERPRO BANK AND TRUST COMPANY",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "ITCOCWC1"
+        },
+        {
+            "id": 31,
+            "bank": "INTERUNION BANK (ANTILLES)",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "INANCWC1"
+        },
+        {
+            "id": 32,
+            "bank": "MADURO AND CURIEL'S BANK N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "MCBKCWCU"
+        },
+        {
+            "id": 33,
+            "bank": "MERRILL LYNCH INTERNATIONAL AND CO. C.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "MLIVCWC1"
+        },
+        {
+            "id": 34,
+            "bank": "MIDDENBANK CURACAO N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "MIDCCWC1"
+        },
+        {
+            "id": 35,
+            "bank": "MIDPACIFIC BANK N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "BMIDCWC1"
+        },
+        {
+            "id": 36,
+            "bank": "MOORE GLOBAL FIXED INCOME FUND LTD.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "MOCNCWC1"
+        },
+        {
+            "id": 37,
+            "bank": "NETHERLANDS CARIBBEAN BANK, N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "NCBCCWC1"
+        },
+        {
+            "id": 38,
+            "bank": "NORO BANK N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "NRROCWC1"
+        },
+        {
+            "id": 39,
+            "bank": "ORCO BANK N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "ORBACWCU"
+        },
+        {
+            "id": 40,
+            "bank": "PSB BANK N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "PBBPCWC1"
+        },
+        {
+            "id": 41,
+            "bank": "RBC ROYAL BANK N.V. (FORMERLY RBTT BANK N.V.)",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "RBTTCWCU"
+        },
+        {
+            "id": 42,
+            "bank": "REPUBLIC INTERNATIONAL BANK, N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "RIBKCWCU"
+        },
+        {
+            "id": 43,
+            "bank": "RORENTO N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "RGRRCWC1"
+        },
+        {
+            "id": 44,
+            "bank": "SOCIETE FINANCIERE DES ANTILLES N.V",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "SFANCWCU"
+        },
+        {
+            "id": 45,
+            "bank": "SOUTH AMERICAN INTERNATIONAL BANK OF CURACAO",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "SAINCWCU"
+        },
+        {
+            "id": 46,
+            "bank": "TOTALBANK CURACAO N.V.",
+            "city": "SCHARLOO",
+            "branch": null,
+            "swift_code": "TOTLCWCU"
+        },
+        {
+            "id": 47,
+            "bank": "UNITED INTERNATIONAL BANK N.V.",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "UDIBCWCU"
+        },
+        {
+            "id": 48,
+            "bank": "VIDANOVA BANK N.V. (FORMERLY S.F.T. BANK)",
+            "city": "WILLEMSTAD",
+            "branch": null,
+            "swift_code": "CITCCWCC"
+        }
+    ]
+}

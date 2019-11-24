@@ -1,0 +1,34 @@
+{
+    "country": "Northern Mariana Islands",
+    "country_code": "MP",
+    "list": [
+        {
+            "id": 1,
+            "bank": "ALLIED MERCANTILE BANK CORPORATION",
+            "city": "SAIPAN",
+            "branch": null,
+            "swift_code": "ALMPMPMP"
+        },
+        {
+            "id": 2,
+            "bank": "BANK OF HAWAII",
+            "city": "SAIPAN",
+            "branch": null,
+            "swift_code": "BOHIMPM1"
+        },
+        {
+            "id": 3,
+            "bank": "BANK OF SAIPAN",
+            "city": "SAIPAN",
+            "branch": null,
+            "swift_code": "BSAIMPM1"
+        },
+        {
+            "id": 4,
+            "bank": "BANK OF GUAM",
+            "city": "SAIPAN",
+            "branch": null,
+            "swift_code": "GMBKMPM1"
+        }
+    ]
+}

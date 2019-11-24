@@ -1,0 +1,62 @@
+{
+    "country": "Samoa",
+    "country_code": "WS",
+    "list": [
+        {
+            "id": 1,
+            "bank": "ANZ BANK (SAMOA) LTD",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "ANZBWSWW"
+        },
+        {
+            "id": 2,
+            "bank": "BANK SOUTH PACIFIC (SAMOA) LIMITED",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "BOSPWSWS"
+        },
+        {
+            "id": 3,
+            "bank": "BRITISH AMERICAN TOBACCO (SAMOA) LIMITED",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "BATSWSA1"
+        },
+        {
+            "id": 4,
+            "bank": "CENTRAL BANK OF SAMOA",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "CBSAWSWS"
+        },
+        {
+            "id": 5,
+            "bank": "INDEPENDENT INVESTMENT BANK LTD.",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "ININWSW1"
+        },
+        {
+            "id": 6,
+            "bank": "INTERNATIONAL BUSINESS BANK CORPORATION LTD.",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "IBBIWSW1"
+        },
+        {
+            "id": 7,
+            "bank": "NATIONAL BANK OF SAMOA LIMITED",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "NBSLWSWS"
+        },
+        {
+            "id": 8,
+            "bank": "SAMOA COMMERCIAL BANK LIMITED",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "SCOBWSWS"
+        }
+    ]
+}

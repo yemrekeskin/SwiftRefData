@@ -1,0 +1,48 @@
+{
+    "country": "Lesotho",
+    "country_code": "LS",
+    "list": [
+        {
+            "id": 1,
+            "bank": "CENTRAL BANK OF LESOTHO",
+            "city": "MASERU",
+            "branch": null,
+            "swift_code": "CBLELSMX"
+        },
+        {
+            "id": 2,
+            "bank": "FIRST NATIONAL BANK OF LESOTHO",
+            "city": "MASERU",
+            "branch": null,
+            "swift_code": "FIRNLSMX"
+        },
+        {
+            "id": 3,
+            "bank": "LESOTHO POSTBANK",
+            "city": "MASERU",
+            "branch": null,
+            "swift_code": "LESHLSMM"
+        },
+        {
+            "id": 4,
+            "bank": "MALUTI MOUNTAIN BREWERY LIMITED",
+            "city": "MASERU",
+            "branch": null,
+            "swift_code": "SABMLSM1"
+        },
+        {
+            "id": 5,
+            "bank": "NEDBANK (LESOTHO) LIMITED",
+            "city": "MASERU",
+            "branch": null,
+            "swift_code": "NEDLLSMX"
+        },
+        {
+            "id": 6,
+            "bank": "STANDARD LESOTHO BANK LTD.",
+            "city": "MASERU",
+            "branch": null,
+            "swift_code": "SBICLSMX"
+        }
+    ]
+}

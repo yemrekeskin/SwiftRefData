@@ -1,0 +1,48 @@
+{
+    "country": "Solomon Islands",
+    "country_code": "SB",
+    "list": [
+        {
+            "id": 1,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "HONIARA",
+            "branch": null,
+            "swift_code": "ANZBSBSB"
+        },
+        {
+            "id": 2,
+            "bank": "BANK OF SOUTH PACIFIC LIMITED",
+            "city": "HONIARA",
+            "branch": null,
+            "swift_code": "BOSPSBSB"
+        },
+        {
+            "id": 3,
+            "bank": "BRED BANK SOLOMON",
+            "city": "HONIARA",
+            "branch": null,
+            "swift_code": "BREDSBSB"
+        },
+        {
+            "id": 4,
+            "bank": "CENTRAL BANK OF SOLOMON ISLANDS",
+            "city": "HONIARA",
+            "branch": null,
+            "swift_code": "CBSISBSB"
+        },
+        {
+            "id": 5,
+            "bank": "PAN OCEANIC BANK LIMITED",
+            "city": "HONIARA",
+            "branch": null,
+            "swift_code": "POBBSBSB"
+        },
+        {
+            "id": 6,
+            "bank": "SOLOMON ISLANDS TOBACCO COMPANY LIMITED",
+            "city": "HONIARA",
+            "branch": null,
+            "swift_code": "BATSSBA1"
+        }
+    ]
+}

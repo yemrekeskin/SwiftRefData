@@ -1,0 +1,132 @@
+{
+    "country": "Mongolia",
+    "country_code": "MN",
+    "list": [
+        {
+            "id": 1,
+            "bank": "ARIG BANK OF MONGOLIA (ARIG BANK LLC)",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "ARGBMNUB"
+        },
+        {
+            "id": 2,
+            "bank": "BANK OF MONGOLIA, THE",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "BOMUMNUB"
+        },
+        {
+            "id": 3,
+            "bank": "BOGD BANK",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "BOGDMNUB"
+        },
+        {
+            "id": 4,
+            "bank": "CAPITAL BANK OF MONGOLIA",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "CBMNMNUB"
+        },
+        {
+            "id": 5,
+            "bank": "CAPITRON BANK",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "CPITMNUB"
+        },
+        {
+            "id": 6,
+            "bank": "CHINGGIS KHAAN BANK",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "CHKHMNUB"
+        },
+        {
+            "id": 7,
+            "bank": "CREDIT BANK OF MONGOLIA",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "CRMNMNUB"
+        },
+        {
+            "id": 8,
+            "bank": "DEVELOPMENT BANK OF MONGOLIA",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "DBOMMNUB"
+        },
+        {
+            "id": 9,
+            "bank": "GOLOMT BANK OF MONGOLIA",
+            "city": "ULAANBAATAR",
+            "branch": "(CUSTODIAN BANKING DEPARTMENT)",
+            "swift_code": "GLMTMNUBCUS"
+        },
+        {
+            "id": 10,
+            "bank": "GOLOMT BANK OF MONGOLIA",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "GLMTMNUB"
+        },
+        {
+            "id": 11,
+            "bank": "KHAN BANK OF MONGOLIA",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "AGMOMNUB"
+        },
+        {
+            "id": 12,
+            "bank": "NATIONAL INVESTMENT BANK OF MONGOLIA",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "NAIMMNUB"
+        },
+        {
+            "id": 13,
+            "bank": "STATE BANK",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "STBMMNUB"
+        },
+        {
+            "id": 14,
+            "bank": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "TDBMMNUB"
+        },
+        {
+            "id": 15,
+            "bank": "TRANSBANK",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "TBOMMNUB"
+        },
+        {
+            "id": 16,
+            "bank": "TRANSPORT DEVELOPMENT BANK OF MONGOLIA",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "TRDMMNU1"
+        },
+        {
+            "id": 17,
+            "bank": "ULAANBAATAR CITY BANK",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "CIBMMNUB"
+        },
+        {
+            "id": 18,
+            "bank": "XACBANK",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "CAXBMNUB"
+        }
+    ]
+}

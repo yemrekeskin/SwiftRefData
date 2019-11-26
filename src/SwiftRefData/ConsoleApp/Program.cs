@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using SwiftRefData;
+using SwiftRefData.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -14,14 +15,14 @@ namespace ConsoleApp
         {
             RefData refData = new RefData();
 
-            var countries = refData.GetCountries();
+            List<Country> countries = refData.GetCountries();
 
-            var ibanFormats = refData.GetIbanFormats();
+            List<IbanFormat> ibanFormats = refData.GetIbanFormats();
 
-            var currencies = refData.GetCurrencies();
+            List<Currency> currencies = refData.GetCurrencies();
 
-            var countryBank = refData.GetBanks("tr");
-            var banks = countryBank.Banks;
+            CountryBank countryBank = refData.GetBanks("TR");
+            List<Bank> banks = countryBank.Banks;
 
             Console.ReadLine();
         }

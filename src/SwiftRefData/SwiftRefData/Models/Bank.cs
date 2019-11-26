@@ -5,6 +5,18 @@ using System.Text;
 
 namespace SwiftRefData.Models
 {
+    public class CountryBank
+    {
+        [JsonProperty("country")]
+        public string Country { get; set; }
+
+        [JsonProperty("country_code")]
+        public string CountryCode { get; set; } 
+
+        [JsonProperty("list")]
+        public List<Bank> Banks { get; set; } 
+    }
+
     public class Bank
     {
         [JsonProperty("swift_code")]

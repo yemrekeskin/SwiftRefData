@@ -2,7 +2,7 @@
 
 # Swift Reference Data
 
-This project providers the list of reference data like country, currency, banks and iban formats related to swift (fin messaging system). Data formats based json
+This project providers the list of reference data like country, currency, banks and iban formats related to swift (fin messaging system). Data formats based `json`
 
 - List of country codes as defined by [**ISO 3166**](https://www.iso.org/iso-3166-country-codes.html)
   - Country Name: Turkey
@@ -45,6 +45,7 @@ List<Bank> banks = countryBank.Banks;
 - List of SWIFT Message Type
   - Category - MT1XX
   - Category Description - Customer Payments and Cheques For Standards MT
+  - MT Messages of Category
     - Message Type (MT Name) - 103
     - Identifier - fin.103 fin.103.REMIT fin.103.STP
     - Name - Single Customer Credit Transfer
